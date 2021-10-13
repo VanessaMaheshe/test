@@ -1,9 +1,9 @@
                                                                                                            
-<!doctype Html>
+<!DOCTYPE Html>
 <Html>
 <head>
 <meta charset="utf-8" />
-<title>Bahati Maheshe</title>
+<title> Bahati Maheshe </title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
