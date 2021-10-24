@@ -1,7 +1,6 @@
-<!-- this is the structure of the web page -->
+
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <style>
