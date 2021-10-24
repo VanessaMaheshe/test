@@ -22,7 +22,7 @@
         
         p {
             text-align: center;
-            font-size: 20px;
+            font-size: 30px;
         }
     </style>
     <title> BAHATI MAHESHE </title>
