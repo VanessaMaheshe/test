@@ -1,20 +1,46 @@
-                                                                                                           
-<!DOCTYPE Html>
-<Html>
+<!-- this is the structure of the web page -->
+<!DOCTYPE html>
+<html>
+
 <head>
-<meta charset="utf-8">
-<title> Bahati Maheshe </title>
-<link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background-color: burlywood;
+        }
+        
+        h1 {
+            color: blue;
+            text-align: center;
+            font-size: 50px;
+        }
+        
+        li {
+            text-align: center;
+            font-size: 20px;
+        }
+        
+        p {
+            text-align: center;
+            font-size: 20px;
+        }
+    </style>
+    <title> BAHATI MAHESHE </title>
 </head>
+
 <body>
-<p> welcom  to my page!</p>
-<h1> introduction to css</h1>
-<ul>
-<li><a href="lecture. html">lecture</a></li> 
-<li>
-<a href="homework.Html">homework</a></li>
-<li><a href="quiz.Html">Quiz</a></li>
-<li><a href="exam Html">exam</a></li>
-</ul>
+    <h1>WELCOME TO MY PAGE</h1>
+    <P> Am so happy to lean how to create a site web</P>
+    <h1>Introduction</h1>
+    <!-- horizotal line -->
+    <hr>
+    <UL>
+        <LI><a href="about me.html">about me</a>
+            <LI><a href="contact me">contact me</a>
+                <LI><a href="product.html">product</a>
+    </UL>
+    <img src="" width="40%" height="50%s">
+
 </body>
+
 </html>
