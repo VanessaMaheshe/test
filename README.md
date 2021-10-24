@@ -35,7 +35,7 @@
     <hr>
     <UL>
         <LI><a href="about me.html">about me</a>
-            <LI><a href="contact me">contact me</a>
+            <LI><a href="contact ">contact </a>
                 <LI><a href="product.html">product</a>
     </UL>
     <img src="" width="40%" height="50%s">
