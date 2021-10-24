@@ -39,7 +39,6 @@
                 <LI><a href="product.html">product</a>
                 <LI><a href="my gallery.html">gallery</a>
     </UL>
-    <img src="" width="40%" height="50%s">
 
 </body>
 
