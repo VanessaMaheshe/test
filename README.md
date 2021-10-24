@@ -26,7 +26,6 @@
     </style>
     <title> BAHATI MAHESHE </title>
 </head>
-
 <body>
     <h1>WELCOME TO MY PAGE</h1>
     <P> Am so happy to lean how to create a site web</P>
@@ -39,7 +38,5 @@
                 <LI><a href="product.html">product</a>
                 <LI><a href="my gallery.html">gallery</a>
     </UL>
-
 </body>
-
 </html>
