@@ -1,0 +1,30 @@
+<!-- this is the structure of the web page -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background-color: cadetblue;
+        }
+        
+        h1 {
+            color: blue;
+            text-align: center;
+            font-size: 50px;
+        }
+    </style>
+    <title> contact </title>
+</head>
+
+<body>
+    <h1>MY CONTACT</h1>
+    <P> </P>
+    <!-- horizotal line -->
+    <hr>
+    <img src="" width="40%" height="50%s">
+
+</body>
+
+</html>
