@@ -36,7 +36,7 @@
         <LI><a href="about me.html">about me</a>
             <LI><a href="contact ">contact </a>
                 <LI><a href="product.html">product</a>
-                <LI><a href="my gallery.html">my gallery</a>
+                <LI><a href="gallery.html">gallery</a>
     </UL>
 </body>
 </html>
