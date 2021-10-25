@@ -34,9 +34,9 @@
     <hr>
     <UL>
         <LI><a href="about me.html">about me</a>
-            <LI><a href="contact ">contact </a>
+            <LI><a href="contact">contact </a>
                 <LI><a href="product.html">product</a>
-                <LI><a href="gallery.html">gallery</a>
+                <LI><a href="gallerypage.html">gallery</a>
     </UL>
 </body>
 </html>
